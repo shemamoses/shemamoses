@@ -1,8 +1,12 @@
 # SHEMA Moses
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Full-stack Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel 
+Here’s a more detailed version:
+
+**Shema Moses**  
+Full-stack developer driven by a passion for crafting impactful and efficient web applications. I thrive on solving complex challenges, designing intuitive user experiences, and building robust, scalable solutions. With a deep interest in continuous learning, I stay up-to-date with the latest technologies and best practices in the field. My focus is always on delivering quality, both in terms of functionality and user satisfaction, while collaborating with teams to turn ideas into reality. Dedicated to growth, I aim to push the boundaries of innovation in web development.
+
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
