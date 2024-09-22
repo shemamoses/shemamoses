@@ -49,7 +49,7 @@ Full-stack developer driven by a passion for crafting impactful and efficient we
 
 ### 📊 Stats
 
-![Shema Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemamoses_icons=true&theme=gruvbox)
+![Shema Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemamoses&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
